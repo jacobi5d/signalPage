@@ -1,10 +1,10 @@
 [
     {
-        "matchup": "Thunder @ OKC @ Lakers @ LAL",
+        "matchup": "Knicks @ NYK @ 76ers @ PHI",
         "open_odds": [],
         "best_odds": [
-            "-8.5",
-            "+8.5"
+            "-1.5",
+            "+2.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,18 +14,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "58%42%",
-            "58%",
-            "42%"
+            "68%32%",
+            "68%",
+            "32%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Pistons @ DET @ Cavaliers @ CLE",
+        "matchup": "Spurs @ SAS @ Timberwolves @ MIN",
         "open_odds": [],
         "best_odds": [
-            "+4.5",
-            "-4.5"
+            "-4.5",
+            "+4.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -35,9 +35,9 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "55%45%",
-            "55%",
-            "45%"
+            "63%37%",
+            "63%",
+            "37%"
         ],
         "money_pct": []
     }
