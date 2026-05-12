@@ -1,31 +1,10 @@
 [
     {
-        "matchup": "Knicks @ NYK @ 76ers @ PHI",
+        "matchup": "Timberwolves @ MIN @ Spurs @ SAS",
         "open_odds": [],
         "best_odds": [
-            "-1.5",
-            "+2.5"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "68%32%",
-            "68%",
-            "32%"
-        ],
-        "money_pct": []
-    },
-    {
-        "matchup": "Spurs @ SAS @ Timberwolves @ MIN",
-        "open_odds": [],
-        "best_odds": [
-            "-4.5",
-            "+4.5"
+            "+10.5",
+            "-10.5"
         ],
         "signals": {
             "sharp_action": 2,
