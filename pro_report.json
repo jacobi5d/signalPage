@@ -1,10 +1,10 @@
 [
     {
-        "matchup": "Timberwolves @ MIN @ Spurs @ SAS",
+        "matchup": "Spurs @ SAS @ Thunder @ OKC",
         "open_odds": [],
         "best_odds": [
-            "+10.5",
-            "-10.5"
+            "+6.5",
+            "-6.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,9 +14,9 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "63%37%",
-            "63%",
-            "37%"
+            "64%36%",
+            "64%",
+            "36%"
         ],
         "money_pct": []
     }
