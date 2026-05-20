@@ -1,10 +1,10 @@
 [
     {
-        "matchup": "Cavaliers @ CLE @ Knicks @ NYK",
+        "matchup": "Spurs @ SAS @ Thunder @ OKC",
         "open_odds": [],
         "best_odds": [
-            "+6.5",
-            "-6.5"
+            "+7.5",
+            "-7.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,10 +14,14 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "57%43%",
-            "57%",
-            "43%"
+            "69%31%",
+            "69%",
+            "31%"
         ],
-        "money_pct": []
+        "money_pct": [
+            "49%51%",
+            "49%",
+            "51%"
+        ]
     }
 ]
