@@ -1,10 +1,10 @@
 [
     {
-        "matchup": "Thunder @ OKC @ Spurs @ SAS",
+        "matchup": "Knicks @ NYK @ Spurs @ SAS",
         "open_odds": [],
         "best_odds": [
-            "+16.5",
-            "-3.5"
+            "+4.5",
+            "-4.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,14 +14,10 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "59%41%",
-            "59%",
-            "41%"
+            "35%65%",
+            "35%",
+            "65%"
         ],
-        "money_pct": [
-            "52%48%",
-            "52%",
-            "48%"
-        ]
+        "money_pct": []
     }
 ]
