@@ -3,8 +3,8 @@
         "matchup": "Knicks @ NYK @ Spurs @ SAS",
         "open_odds": [],
         "best_odds": [
-            "+4.5",
-            "-4.5"
+            "+6.5",
+            "-6.5"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,14 +14,10 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "43%57%",
-            "43%",
-            "57%"
+            "59%41%",
+            "59%",
+            "41%"
         ],
-        "money_pct": [
-            "33%67%",
-            "33%",
-            "67%"
-        ]
+        "money_pct": []
     }
 ]
