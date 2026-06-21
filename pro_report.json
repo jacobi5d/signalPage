@@ -1,10 +1,10 @@
 [
     {
-        "matchup": "Angels @ LAA @ Diamondbacks @ ARI",
+        "matchup": "Pirates @ PIT @ Rockies @ COL",
         "open_odds": [],
         "best_odds": [
-            "+100",
-            "-104"
+            "-203",
+            "+194"
         ],
         "signals": {
             "sharp_action": 2,
@@ -14,88 +14,17 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "37%63%",
-            "37%",
-            "63%"
-        ],
-        "money_pct": [
-            "68%32%",
-            "68%",
-            "32%"
-        ]
-    },
-    {
-        "matchup": "Marlins @ MIA @ Phillies @ PHI",
-        "open_odds": [],
-        "best_odds": [
-            "+156",
-            "-163"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "19%81%",
-            "19%",
-            "81%"
-        ],
-        "money_pct": [
-            "33%67%",
-            "33%",
-            "67%"
-        ]
-    },
-    {
-        "matchup": "Twins @ MIN @ Rangers @ TEX",
-        "open_odds": [],
-        "best_odds": [
-            "+122",
-            "-127"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "28%72%",
-            "28%",
-            "72%"
+            "88%12%",
+            "88%",
+            "12%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Rockies @ COL @ Cubs @ CHC",
+        "matchup": "Angels @ LAA @ Athletics @ ATH",
         "open_odds": [],
         "best_odds": [
-            "+170",
-            "-186"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "14%86%",
-            "14%",
-            "86%"
-        ],
-        "money_pct": []
-    },
-    {
-        "matchup": "Tigers @ DET @ Astros @ HOU",
-        "open_odds": [],
-        "best_odds": [
-            "+144",
+            "+165",
             "-150"
         ],
         "signals": {
@@ -106,18 +35,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "29%71%",
-            "29%",
-            "71%"
+            "24%76%",
+            "24%",
+            "76%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Orioles @ BAL @ Mariners @ SEA",
+        "matchup": "Twins @ MIN @ Diamondbacks @ ARI",
         "open_odds": [],
         "best_odds": [
-            "+133",
-            "-144"
+            "+110",
+            "-113"
         ],
         "signals": {
             "sharp_action": 2,
@@ -127,18 +56,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "38%62%",
-            "38%",
-            "62%"
+            "40%60%",
+            "40%",
+            "60%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Pirates @ PIT @ Athletics @ ATH",
+        "matchup": "Red Sox @ BOS @ Mariners @ SEA",
         "open_odds": [],
         "best_odds": [
-            "+122",
-            "-133"
+            "+113",
+            "-117"
         ],
         "signals": {
             "sharp_action": 2,
@@ -148,18 +77,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "32%68%",
-            "32%",
-            "68%"
+            "35%65%",
+            "35%",
+            "65%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Rays @ TB @ Dodgers @ LAD",
+        "matchup": "Orioles @ BAL @ Dodgers @ LAD",
         "open_odds": [],
         "best_odds": [
-            "+133",
-            "-138"
+            "+250",
+            "-255"
         ],
         "signals": {
             "sharp_action": 2,
@@ -169,18 +98,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "19%81%",
-            "19%",
-            "81%"
+            "9%91%",
+            "9%",
+            "91%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Blue Jays @ TOR @ Red Sox @ BOS",
+        "matchup": "White Sox @ CWS @ Tigers @ DET",
         "open_odds": [],
         "best_odds": [
-            "-117",
-            "+104"
+            "+108",
+            "-105"
         ],
         "signals": {
             "sharp_action": 2,
@@ -190,18 +119,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "67%33%",
-            "67%",
-            "33%"
+            "35%65%",
+            "35%",
+            "65%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Royals @ KC @ Nationals @ WSH",
+        "matchup": "Reds @ CIN @ Yankees @ NYY",
         "open_odds": [],
         "best_odds": [
-            "+127",
-            "-130"
+            "+194",
+            "-198"
         ],
         "signals": {
             "sharp_action": 2,
@@ -218,11 +147,11 @@
         "money_pct": []
     },
     {
-        "matchup": "White Sox @ CWS @ Yankees @ NYY",
+        "matchup": "Blue Jays @ TOR @ Cubs @ CHC",
         "open_odds": [],
         "best_odds": [
             "+127",
-            "-138"
+            "-136"
         ],
         "signals": {
             "sharp_action": 2,
@@ -232,18 +161,18 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "25%75%",
-            "25%",
-            "75%"
+            "34%66%",
+            "34%",
+            "66%"
         ],
         "money_pct": []
     },
     {
-        "matchup": "Mets @ NYM @ Reds @ CIN",
+        "matchup": "Padres @ SD @ Rangers @ TEX",
         "open_odds": [],
         "best_odds": [
-            "-117",
-            "+108"
+            "+106",
+            "+9900"
         ],
         "signals": {
             "sharp_action": 2,
@@ -253,18 +182,110 @@
             "top_experts": 2
         },
         "bet_pct": [
+            "43%57%",
+            "43%",
+            "57%"
+        ],
+        "money_pct": []
+    },
+    {
+        "matchup": "Giants @ SF @ Marlins @ MIA",
+        "open_odds": [],
+        "best_odds": [
+            "+9900",
+            "-142"
+        ],
+        "signals": {
+            "sharp_action": 2,
+            "big_money": 2,
+            "pro_systems": 2,
+            "model_proj": 2,
+            "top_experts": 2
+        },
+        "bet_pct": [
+            "24%76%",
+            "24%",
+            "76%"
+        ],
+        "money_pct": []
+    },
+    {
+        "matchup": "Nationals @ WSH @ Rays @ TB",
+        "open_odds": [],
+        "best_odds": [
+            "+110",
+            "-117"
+        ],
+        "signals": {
+            "sharp_action": 2,
+            "big_money": 2,
+            "pro_systems": 2,
+            "model_proj": 2,
+            "top_experts": 2
+        },
+        "bet_pct": [
+            "33%67%",
+            "33%",
+            "67%"
+        ],
+        "money_pct": []
+    },
+    {
+        "matchup": "Brewers @ MIL @ Braves @ ATL",
+        "open_odds": [],
+        "best_odds": [
+            "+122",
+            "-127"
+        ],
+        "signals": {
+            "sharp_action": 2,
+            "big_money": 2,
+            "pro_systems": 2,
+            "model_proj": 2,
+            "top_experts": 2
+        },
+        "bet_pct": [
+            "40%60%",
+            "40%",
+            "60%"
+        ],
+        "money_pct": [
+            "64%36%",
+            "64%",
+            "36%"
+        ]
+    },
+    {
+        "matchup": "Guardians @ CLE @ Astros @ HOU",
+        "open_odds": [],
+        "best_odds": [
+            "+138",
+            "-150"
+        ],
+        "signals": {
+            "sharp_action": 2,
+            "big_money": 2,
+            "pro_systems": 2,
+            "model_proj": 2,
+            "top_experts": 2
+        },
+        "bet_pct": [
+            "30%70%",
+            "30%",
+            "70%"
+        ],
+        "money_pct": [
             "41%59%",
             "41%",
             "59%"
-        ],
-        "money_pct": []
+        ]
     },
     {
-        "matchup": "Giants @ SF @ Braves @ ATL",
+        "matchup": "Mets @ NYM @ Phillies @ PHI",
         "open_odds": [],
         "best_odds": [
-            "+150",
-            "-155"
+            "+178",
+            "-186"
         ],
         "signals": {
             "sharp_action": 2,
@@ -274,51 +295,9 @@
             "top_experts": 2
         },
         "bet_pct": [
-            "11%89%",
-            "11%",
-            "89%"
-        ],
-        "money_pct": []
-    },
-    {
-        "matchup": "Guardians @ CLE @ Brewers @ MIL",
-        "open_odds": [],
-        "best_odds": [
-            "+133",
-            "-144"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "25%75%",
-            "25%",
-            "75%"
-        ],
-        "money_pct": []
-    },
-    {
-        "matchup": "Padres @ SD @ Cardinals @ STL",
-        "open_odds": [],
-        "best_odds": [
-            "+104",
-            "-108"
-        ],
-        "signals": {
-            "sharp_action": 2,
-            "big_money": 2,
-            "pro_systems": 2,
-            "model_proj": 2,
-            "top_experts": 2
-        },
-        "bet_pct": [
-            "32%68%",
-            "32%",
-            "68%"
+            "14%86%",
+            "14%",
+            "86%"
         ],
         "money_pct": []
     }
